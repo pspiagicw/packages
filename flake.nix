@@ -1,5 +1,5 @@
 {
-  description = "Custom `groom` flake to use across projects";
+  description = "Custom flake for all custom packages";
 
   outputs = {
     self,
